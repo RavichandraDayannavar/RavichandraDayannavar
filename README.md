@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi, I’m Ravichandra Dayannavar Data Analyst | Business Analyst
 
-<!--
-**RavichandraDayannavar/RavichandraDayannavar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on honing my skills in data and business analytics through hands-on projects.
+- 🌱 I’m currently learning advanced data visualization and business intelligence tools.
+- 👯 I’m looking to collaborate on projects that combine data analytics with business strategy.
+- 🤔 I’m looking for help with gaining deeper insights into advanced analytics techniques and expanding my professional network with analytics community.
+- 💬 Ask me about data analytics, market research, or my journey transitioning from engineering to data analysis.
+- 📫 How to reach me: Drop a mail to radhadayannavar147@gmail.com
+- 😄 Pronouns:He/Him
+- ⚡ Fun fact:I love uncovering hidden patterns in data just as much as I enjoy solving puzzles in my free time!
+- 
+- Connect to me for hiring : www.linkedin.com/in/ravichandradayannavar
 
-Here are some ideas to get you started:
+Reach out to me: radhadayannavar147@gmail.com 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Languages and Tools: SQL Microsoft Word Microsoft Office Power BI Python Excel Matplotlib Pandas NumPy Seaborn Jupyter Notebooks SciPy
