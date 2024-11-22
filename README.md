@@ -8,7 +8,7 @@
 - 📫 How to reach me: Drop a mail to radhadayannavar147@gmail.com
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact:I love uncovering hidden patterns in data just as much as I enjoy solving puzzles in my free time!
-- 
+  
 - Connect to me for hiring : www.linkedin.com/in/ravichandradayannavar
 
 Reach out to me: radhadayannavar147@gmail.com 
