@@ -1,3 +1,4 @@
+![logo](https://png.pngtree.com/thumb_back/fh260/background/20230616/pngtree-web-banner-and-business-chart-mockup-featuring-a-3d-rendered-seo-image_3616848.jpg)
 <h1 align="center">Hi 👋, I'm Ravichandra Dayannavar</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1616667695311?e=1737590400&v=beta&t=NqtH-1xikJlXrg29Q7T06qrmlua4Y7ZfU3S1CfrzTQA">
