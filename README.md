@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **data analytics, market research, or my journey transitioning from engineering to data analysis.**
 
-- 📫 How to reach me **radhadayannavar147@gmail.com**
+- 📫 How to reach me **ravichandra.dayannavar96@gmail.com**
 
 - ⚡ Fun fact **I love uncovering hidden patterns in data just as much as I enjoy solving puzzles in my free time!**
 
