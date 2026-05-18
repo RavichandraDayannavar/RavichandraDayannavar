@@ -1,6 +1,6 @@
 ![logo](https://t3.ftcdn.net/jpg/07/11/26/60/360_F_711266053_vk4mgNhKyUXqFgxEuQ8xOQkKQ03fg7Vj.jpg)
 <h1 align="center">Hi 👋, I'm Ravichandra Dayannavar</h1>
-<h3 align="center">A Certified Data Analyst from India</h3>
+<h3 align="center">A Certified Data Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1616667695311?e=1737590400&v=beta&t=NqtH-1xikJlXrg29Q7T06qrmlua4Y7ZfU3S1CfrzTQA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravichandradayannavar&label=Profile%20views&color=0e75b6&style=flat" alt="ravichandradayannavar" /> </p>
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **advanced data visualization and business intelligence tools.**
 
-- 👯 I’m looking to collaborate on **projects that combine data analytics with business strategy.**
+- 👯 I’m looking to collaborate on **projects that combine data engineering with business strategy.**
 
 - 🤝 I’m looking for help with **gaining deeper insights into advanced analytics techniques and expanding my professional network with analytics community.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RavichandraDayannavar](https://github.com/RavichandraDayannavar)
 
-- 💬 Ask me about **data analytics, market research, or my journey transitioning from engineering to data analysis.**
+- 💬 Ask me about **data engineering, market research, or my journey transitioning from engineering to data analysis.**
 
 - 📫 How to reach me **ravichandra.dayannavar96@gmail.com**
 
